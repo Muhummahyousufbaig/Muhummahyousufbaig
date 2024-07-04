@@ -71,16 +71,16 @@
             alt="selenium" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a> </p>
-            <img align="right" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
+            <img align="left" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
 
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=muhummahyousufbaig&show_icons=true&locale=en&layout=compact"
         alt="muhummahyousufbaig" /></p>
 
-<p>&nbsp;<img align="center"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=muhummahyousufbaig&show_icons=true&locale=en"
         alt="muhummahyousufbaig" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhummahyousufbaig&"
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muhummahyousufbaig&"
         alt="muhummahyousufbaig" /></p>
