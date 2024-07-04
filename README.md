@@ -4,6 +4,7 @@
 
 <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
     alt="Coding" align="right" width="400">
+    
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=muhummahyousufbaig&label=Profile%20views&color=0e75b6&style=flat"
@@ -70,6 +71,8 @@
             alt="selenium" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
             width="40" height="40" /> </a> </p>
+            <img align="right" alt="coding" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=muhummahyousufbaig&show_icons=true&locale=en&layout=compact"
